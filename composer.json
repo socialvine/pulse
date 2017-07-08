@@ -1,0 +1,21 @@
+{
+    "name": "socialvine/pulse",
+    "description": "Unified API for Social Media Platforms",
+    "type": "library",
+    "version": "0.0.0",
+    "authors": [
+        {
+            "name": "neerajsohal",
+            "email": "hello@neerajkumar.name"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Socialvine\\Pulse\\": "src/socialvine/pulse"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
