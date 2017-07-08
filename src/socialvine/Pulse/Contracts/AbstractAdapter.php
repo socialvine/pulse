@@ -2,6 +2,6 @@
 
 namespace Socialvine\Pulse\Contracts;
 
-abstract class AbstractInterface implements AdapterInterface {
+abstract class AbstractAdapter implements AdapterInterface {
     
 }
