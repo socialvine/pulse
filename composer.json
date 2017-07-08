@@ -2,7 +2,7 @@
     "name": "socialvine/pulse",
     "description": "Unified API for Social Media Platforms",
     "type": "library",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "neerajsohal",
