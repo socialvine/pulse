@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Socialvine\\Pulse\\": "src/socialvine/pulse"
+            "Socialvine\\": "src/socialvine"
         }
     },
     "minimum-stability": "stable",
