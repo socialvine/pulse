@@ -8,5 +8,8 @@ interface ProviderInterface {
     
     public function likes($id);
 
-    public function following($id);
+    public function timline($params);
+    
+    public function search($params);
+
 }
